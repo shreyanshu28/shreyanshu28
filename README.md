@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+  ![](https://komarev.com/ghpvc/?username=shreyanshu28)     
+  https://github.com/antonkomarev/github-profile-views-counter
+  
+  https://github.com/anuraghazra/github-readme-stats
 -->
 
-
-![](https://komarev.com/ghpvc/?username=shreyanshu28)
+[![Shreyanshu's github stats](https://github-readme-stats.vercel.app/api?username=shreyanshu28)](https://github.com/anuraghazra/github-readme-stats)
